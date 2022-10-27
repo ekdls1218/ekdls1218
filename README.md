@@ -1,6 +1,6 @@
 <div align='center'>
   
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌Welcome🙌&desc=Dain's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=300&section=header&text=🙌%20Welcome%20🙌&desc=Dain's%20Github&descSize=45&descAlign=70&descAlignY=75&fontSize=90&animation=fadeIn&fontColor=A9A9F5)
 
 
   안녕하세요! 제 이름은 김다인입니다😊   
