@@ -7,7 +7,8 @@
   
   어디에서든 필요한 개발자가 되기 위해 뭐든 배우려는 자세를 가지고 노력하고 있습니다! 
   
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✍️&nbsp;[Blog]("https://velog.io/@ekdls1218")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 dbslzhs1218@naver.com
+<a href="https://velog.io/@ekdls1218"><img src="https://img.shields.io/badge/Blog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+<a href="https://mail.google.com/"><img src="https://img.shields.io/badge/y01028167866@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br/>
   
